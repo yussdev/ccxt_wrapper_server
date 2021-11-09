@@ -1,0 +1,21 @@
+{
+  "name": "ccxt_wrapper_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.60.84",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}
